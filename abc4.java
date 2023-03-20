@@ -1,1 +1,1 @@
-loging
+log
